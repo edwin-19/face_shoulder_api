@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+opencv-python
+Pillow
+python-multipart
+Jinja2
+tensorflow==1.13.1
